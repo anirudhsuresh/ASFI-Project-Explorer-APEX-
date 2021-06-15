@@ -1,4 +1,4 @@
-# ASFI Project Explorer (APE)
+# ASFI Project Explorer (APEX)
 
 ASFI Project Explorer (APE) is a long-term research project, in which models and algorithms to integrate and advance the analysis and visualization of social networks and technical networks are being developed. APE is the design and implementation of a software tool intended for research in OSS projects, especially for ASF incubator projects.
 
